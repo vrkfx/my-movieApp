@@ -1,0 +1,26 @@
+.navhead{
+    display: flex;
+    font-size: 1.5rem;
+    text-decoration: none;
+    position:sticky;
+} 
+
+.navText{
+    font-size: 1rem;
+    text-decoration: none;
+    display: flex;
+    position:sticky;
+    margin-left: -15px;
+}
+
+.with-icon {
+    display:flex;
+    position:relative;
+    align-items: center;
+}
+
+.search{
+    display:flex;
+    position:relative;
+    padding: auto;
+}
